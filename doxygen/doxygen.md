@@ -7,6 +7,8 @@
   安装过程没有需要特别说明的，双击下一步。  
 
 三、使用说明  
-  以nginx-1.0.15源码为例:  
+  doxygen的官方网站:http://www.doxygen.nl/index.html。    
+  这里面有详细具体的使用说明。  
+  以nginx-1.0.15源码为例:    
   
   ![首先打开doxygen界面](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)  
