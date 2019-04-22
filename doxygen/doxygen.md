@@ -10,4 +10,4 @@
 三、使用说明
   以nginx-1.0.15源码为例:
   
-  ![这里写图片描述]https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png
+  ![这里写图片描述](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)
