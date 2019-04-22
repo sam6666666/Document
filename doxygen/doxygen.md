@@ -13,4 +13,16 @@
   以nginx-1.0.15源码为例:    
   
 
-  ![首先打开doxygen界面](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)  
+  ![首先打开doxygen界面](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)    
+  
+  ![mode设置](https://github.com/sam6666666/Document/blob/master/doxygen/image/mode.png)    
+    
+  ![输出设置](https://github.com/sam6666666/Document/blob/master/doxygen/image/output.png)    
+      
+  ![dot设置](https://github.com/sam6666666/Document/blob/master/doxygen/image/diag.png)    
+        
+  ![build设置](https://github.com/sam6666666/Document/blob/master/doxygen/image/build.png)   
+  
+  ![dot设置](https://github.com/sam6666666/Document/blob/master/doxygen/image/dot.png)    
+           
+  ![run](https://github.com/sam6666666/Document/blob/master/doxygen/image/run.png)      
