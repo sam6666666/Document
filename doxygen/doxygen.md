@@ -4,10 +4,10 @@
 
 二、环境搭建
   graphviz/htmlhelp/doxygen 这三个是需要安装的。
-  安装文件链接:
+  安装文件链接:https://github.com/sam6666666/Document/blob/master/doxygen/pkg/pkg-doxygen.rar
   安装过程没有需要特别说明的，双击下一步。
 
 三、使用说明
   以nginx-1.0.15源码为例:
   
-  ![这里写图片描述](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)
+  ![首先打开doxygen界面](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)
