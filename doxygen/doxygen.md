@@ -13,6 +13,7 @@
   以nginx-1.0.15源码为例:    
   
 
+
   ![首先打开doxygen界面](https://github.com/sam6666666/Document/blob/master/doxygen/image/setting.png)    
   
   ![mode设置](https://github.com/sam6666666/Document/blob/master/doxygen/image/mode.png)    
